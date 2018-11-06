@@ -16,4 +16,14 @@ public class Santa {
 
         return stringIsNice;
     }
+
+    public int countNiceStrings(String[] strings) {
+        int count = 0;
+        for (String s : strings) {
+            if (determineNiceness(s)) {
+                count++;
+            }
+        }
+        return count;
+    }
 }
