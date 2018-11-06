@@ -8,10 +8,6 @@ class CriterionForbiddenSubstringTest {
 
     CriterionForbiddenSubstring c;
 
-//    let ns1 = "aaaa";
-//
-//    let bs1 = "aaaxyaaa";
-//    let bs2 = "ababab";
     @BeforeEach
     void setUp() {
         c = new CriterionForbiddenSubstring();
