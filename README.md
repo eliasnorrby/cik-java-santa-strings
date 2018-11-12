@@ -1,4 +1,7 @@
 # Santa Strings
+
+[![Build Status](https://travis-ci.org/en-dev/cik-java-santa-strings.svg?branch=master)](https://travis-ci.org/en-dev/cik-java-santa-strings)
+
 Santa wants to separate good strings from bad ones. 
 
 ## Part one
